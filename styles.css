@@ -28,3 +28,17 @@ body {
 .intro p{
     margin-top: 50px;
 }
+
+.light-black {
+    color: #505F79;
+}
+
+ul {
+    list-style: none;
+}
+
+.row-direction {
+    display: flex;
+    flex-direction: row;
+    padding-inline-start: 2px;
+}
