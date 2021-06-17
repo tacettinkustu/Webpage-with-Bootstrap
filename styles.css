@@ -42,3 +42,8 @@ ul {
     flex-direction: row;
     padding-inline-start: 2px;
 }
+
+.about-me {
+    background-image: url("./utils/3.svg");
+    background-repeat: no-repeat;
+}
