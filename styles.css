@@ -47,3 +47,10 @@ ul {
     background-image: url("./utils/3.svg");
     background-repeat: no-repeat;
 }
+
+.contact-me {
+    background-image: url("./utils/contact-me-bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10%;
+  }
