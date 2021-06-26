@@ -28,3 +28,29 @@ body {
 .intro p{
     margin-top: 50px;
 }
+
+.light-black {
+    color: #505F79;
+}
+
+ul {
+    list-style: none;
+}
+
+.row-direction {
+    display: flex;
+    flex-direction: row;
+    padding-inline-start: 2px;
+}
+
+.about-me {
+    background-image: url("./utils/3.svg");
+    background-repeat: no-repeat;
+}
+
+.contact-me {
+    background-image: url("./utils/contact-me-bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10%;
+  }
